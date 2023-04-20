@@ -1,1 +1,0 @@
-# challenge-9-professional-readme-generator
