@@ -11,13 +11,13 @@ const generateReadMe = ({title, description, installation, usage, githubName, cr
 `# ${title}
 
 ## Table of Contents
-Description
-Installation
-Usage
-Credits 
-License 
-Test
-Questions
+[Description](https://${githubName}.github.io/${title}##description) 
+[Installation](https://${githubName}.github.io/${title}##installation)
+[Usage](https://${githubName}.github.io/${title}##usage)
+[Credits](https://${githubName}.github.io/${title}##credits) 
+[License](https://${githubName}.github.io/${title}##license) 
+[Test](https://${githubName}.github.io/${title}##test)
+[Questions](https://${githubName}.github.io/${title}##questions)
 
 ## Description
 
