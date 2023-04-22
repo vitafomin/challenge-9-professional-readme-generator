@@ -39,7 +39,7 @@ ${renderLicenseBadge(data.license)}
 * [Test](#test) 
 * [Questions](#questions) 
 
-## Project Description
+## Description
 
 ${data.description}
 
