@@ -1,4 +1,4 @@
-# challenge-6-professional-README-generator
+# challenge-9-professional-README-generator
 
 ## Description
 
@@ -11,8 +11,8 @@ Node.js and inquirer needs to be installed to allow this application to work
 
 ## Usage
 This application is a neat tool for developers to efficiently write a README file to describe their project. This will allow individuals to save time when writing their README. This application is useful for developers.  
-![challenge-9-video](https://drive.google.com/file/d/1ETUP0DHJy1P4O3a7TppnlczC8616kBwf/view)
-https://drive.google.com/file/d/1ETUP0DHJy1P4O3a7TppnlczC8616kBwf/view
+![challenge-9-screenshot](./challenge-9-screenshot.png)
+(https://drive.google.com/file/d/1ETUP0DHJy1P4O3a7TppnlczC8616kBwf/view)
 
 
 ## Credits
